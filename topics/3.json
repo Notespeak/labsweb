@@ -6,13 +6,13 @@
             "data": [
                 {
                     "text": "Диаграмма UML Use Case",
-                    "link": "https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML-usecase.txt"
+                    "link": "https://github.com/Notespeak/projectmanagement/blob/master/kurs/uml/umlv2.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML.png?raw=true" 
+            "data":"https://github.com/Notespeak/projectmanagement/blob/master/kurs/uml/umlv2.png?raw=true" 
         },
         {
             "type": "text",
@@ -39,7 +39,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Описываемые процессы и потоки данных: А43 Обработка запроса"
+                    "text": "Описываемые процессы и потоки данных: А31 Обработка запроса"
                 }
             ]
         },
@@ -48,13 +48,13 @@
             "data": [
                 {
                     "text": "Диаграмма UML Sequence",
-                    "link": "https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML_sequence.txt"
+                    "link": "https://github.com/Notespeak/projectmanagement/blob/master/kurs/uml-s/uml-s-v3.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML_sequence.png?raw=true" 
+            "data":"https://github.com/Notespeak/projectmanagement/raw/master/kurs/uml-s/uml-s-v3.png?raw=true" 
         },
         {
             "type": "text",
@@ -63,20 +63,8 @@
                     "text": "Описываемый объект: Структура программных средств системы обработки данных"
                 }
             ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Диаграмма UML Deployment",
-                    "link": "https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML_component.txt"
-                }
-            ]
-        },
-        {
-            "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML_deployment.png?raw=true" 
         }
+        
       ]
 }
 
