@@ -20,79 +20,64 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/01_A0.png?raw=true" 
+            "data":"https://github.com/Notespeak/projectmanagement/raw/master/kurs/idef0/01_A0.png" 
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма А1-A5"
+                    "text": "Декомпозиция А0"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/02_A0.png?raw=true" 
+            "data":"https://github.com/Notespeak/projectmanagement/raw/master/kurs/idef0/02_A0.png" 
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма A11-A13"
+                    "text": "Диаграмма А1"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/03_A1.png?raw=true" 
+            "data":"https://github.com/Notespeak/projectmanagement/raw/master/kurs/idef0/03_A1.png?raw=true" 
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма A21-A24"
+                    "text": "Диаграмма A2"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/04_A2.png?raw=true" 
+            "data":"https://github.com/Notespeak/projectmanagement/raw/master/kurs/idef0/05_A3.png?raw=true" 
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма A31-A33"
+                    "text": "Диаграмма A3"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/06_A3.png?raw=true" 
+            "data":"https://github.com/Notespeak/projectmanagement/raw/master/kurs/idef0/08_A4.png?raw=true" 
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма A41-A44"
+                    "text": "Диаграмма A4"
                 }
             ]
-        },
-        {
-            "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/09_A4.png?raw=true" 
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Диаграмма A51-A53"
-                }
-            ]
-        },
-        {
-            "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/13_A5n.png?raw=true" 
         }
+       
     ]
 }
